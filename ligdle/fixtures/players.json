@@ -1,0 +1,5935 @@
+[
+    {
+      "model": "ligdle.player",
+      "pk": 1,
+      "fields" : { "name": "Goran Karacic",
+      "team": "Adana Demirspor",
+      "position": "G",
+      "age": 26,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 2,
+      "fields" : { "name": "Vedat Karakus",
+      "team": "Adana Demirspor",
+      "position": "G",
+      "age": 25,
+      "jersey_number": 39
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 3,
+      "fields" : { "name": "Ertac Ozbir",
+      "team": "Adana Demirspor",
+      "position": "G",
+      "age": 33,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 4,
+      "fields" : { "name": "Ozturk Ata",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 5,
+      "fields" : { "name": "Ismail Cokcalis",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 6,
+      "fields" : { "name": "Rahim Dursun",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 7,
+      "fields" : { "name": "Andrew Gravillon",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 8,
+      "fields" : { "name": "Semih Guler",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 9,
+      "fields" : { "name": "Kevin Rodrigues",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 10,
+      "fields" : { "name": "Jonas Svensson",
+      "team": "Adana Demirspor",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 11,
+      "fields" : { "name": "Emre Akbaba",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 12,
+      "fields" : { "name": "David Akintola",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 13,
+      "fields" : { "name": "Mahamadou Ba",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 13
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 14,
+      "fields" : { "name": "Bunyamin Balat",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 15,
+      "fields" : { "name": "Younes Belhanda",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 16,
+      "fields" : { "name": "Hijran Ali Boyaci",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 17,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 17,
+      "fields" : { "name": "Izzet Celik",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 18,
+      "fields" : { "name": "Yusuf Erdogan",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 32
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 19,
+      "fields" : { "name": "Jovan Manev",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 20,
+      "fields" : { "name": "Nani",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 36,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 21,
+      "fields" : { "name": "Badou Ndiaye",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 32,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 22,
+      "fields" : { "name": "Samuel Nongoh",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 46
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 23,
+      "fields" : { "name": "Dorukhan Tokoz",
+      "team": "Adana Demirspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 24,
+      "fields" : { "name": "Tayfun Aydogan",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 25,
+      "fields" : { "name": "Musa Bulut",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 26,
+      "fields" : { "name": "Fredrik Gulbrandsen",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 27,
+      "fields" : { "name": "Hamza Jaganjac",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 94
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 28,
+      "fields" : { "name": "Salih Kavrazli",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 29,
+      "fields" : { "name": "Cherif Ndiaye",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 30,
+      "fields" : { "name": "Henry Onyekuru",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 31,
+      "fields" : { "name": "Yusuf Sari",
+      "team": "Adana Demirspor",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 32,
+      "fields" : { "name": "Yavuz Aygun",
+      "team": "Alanyaspor",
+      "position": "G",
+      "age": 27,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 33,
+      "fields" : { "name": "Yusuf Karagoz",
+      "team": "Alanyaspor",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 34,
+      "fields" : { "name": "Musa Koc",
+      "team": "Alanyaspor",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 94
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 35,
+      "fields" : { "name": "Umit Akdag",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 36,
+      "fields" : { "name": "Fatih Aksoy",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 37,
+      "fields" : { "name": "Fidan Aliti",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 38,
+      "fields" : { "name": "Yunus Bahadir",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 42
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 39,
+      "fields" : { "name": "Jure Balkovec",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 40,
+      "fields" : { "name": "Eduardo Bauermann",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 41,
+      "fields" : { "name": "Furkan Bayir",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 42,
+      "fields" : { "name": "Emre Bekir",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 43,
+      "fields" : { "name": "Tayfur Bingol",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 75
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 44,
+      "fields" : { "name": "Mustafa Arda Kartal",
+      "team": "Alanyaspor",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 56
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 45,
+      "fields" : { "name": "Buluthan Bulut",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 92
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 46,
+      "fields" : { "name": "Berke Celik",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 50
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 47,
+      "fields" : { "name": "Leroy Fer",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 48,
+      "fields" : { "name": "Zinedine Ferhat",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 49,
+      "fields" : { "name": "Umut Gunes",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 50,
+      "fields" : { "name": "Ahmed Ildiz",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 51,
+      "fields" : { "name": "Nicolas Janvier",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 98
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 52,
+      "fields" : { "name": "Bedirhan Kahraman",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 63
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 53,
+      "fields" : { "name": "Efecan Karaca",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 54,
+      "fields" : { "name": "Arnaud Lusamba",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 55,
+      "fields" : { "name": "Joao Novais",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 56,
+      "fields" : { "name": "Yusuf Ozdemir",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 57,
+      "fields" : { "name": "Mert0Yusuf Torlak",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 58,
+      "fields" : { "name": "Ismail Zehir",
+      "team": "Alanyaspor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 59,
+      "fields" : { "name": "Emircan Altintas",
+      "team": "Alanyaspor",
+      "position": "F",
+      "age": 28,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 60,
+      "fields" : { "name": "Oguz Aydin",
+      "team": "Alanyaspor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 70
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 61,
+      "fields" : { "name": "Carlos Eduardo",
+      "team": "Alanyaspor",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 62,
+      "fields" : { "name": "Kadir Can Gundogdu",
+      "team": "Alanyaspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 44
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 63,
+      "fields" : { "name": "Anderson Silva",
+      "team": "Alanyaspor",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 64,
+      "fields" : { "name": "El Mami Tetah",
+      "team": "Alanyaspor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 93
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 65,
+      "fields" : { "name": "Rafal Gikiewicz",
+      "team": "Ankaragucu",
+      "position": "G",
+      "age": 35,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 66,
+      "fields" : { "name": "Bahadir Han Gungordu",
+      "team": "Ankaragucu",
+      "position": "G",
+      "age": 27,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 67,
+      "fields" : { "name": "Dogukan Kaya",
+      "team": "Ankaragucu",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 68,
+      "fields" : { "name": "Mert Can",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 69,
+      "fields" : { "name": "Mert Cetin",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 45
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 70,
+      "fields" : { "name": "Yusuf Eren Goktas",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 40
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 71,
+      "fields" : { "name": "Matej Hanousek",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 72,
+      "fields" : { "name": "Hasan Ali Kaldirim",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 33,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 73,
+      "fields" : { "name": "Enock Kwateng",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 78
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 74,
+      "fields" : { "name": "Nihad Mujakic",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 75,
+      "fields" : { "name": "Alper Uludag",
+      "team": "Ankaragucu",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 76,
+      "fields" : { "name": "Andrej Dokanovic",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 77,
+      "fields" : { "name": "Efkan Bekiroglu",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 78,
+      "fields" : { "name": "Atesyakan Berkay",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 44
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 79,
+      "fields" : { "name": "Ibrahim Yilmaz Cicek",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 16,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 80,
+      "fields" : { "name": "Tolga Cigerci",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 81,
+      "fields" : { "name": "Atakan Dama",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 79
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 82,
+      "fields" : { "name": "Lamine Diack",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 83,
+      "fields" : { "name": "Emre Eren",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 95
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 84,
+      "fields" : { "name": "Ali Kaan Guneren",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 85,
+      "fields" : { "name": "Pedrinho",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 86,
+      "fields" : { "name": "Ulas Yilmaz",
+      "team": "Ankaragucu",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 87,
+      "fields" : { "name": "Riad Bajic",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 88,
+      "fields" : { "name": "Giorgi Beridze",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 89,
+      "fields" : { "name": "Furkan Ceylan",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 93
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 90,
+      "fields" : { "name": "Anastasios Chatzigiovannis",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 91,
+      "fields" : { "name": "Arda Kumru",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 92,
+      "fields" : { "name": "Federico Macheda",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 93,
+      "fields" : { "name": "Bevic Moussiti0Oko",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 28,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 94,
+      "fields" : { "name": "Ali Sowe",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 95,
+      "fields" : { "name": "Firatcan Uzum",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 96,
+      "fields" : { "name": "Mervan Yusuf Yigit",
+      "team": "Ankaragucu",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 41
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 97,
+      "fields" : { "name": "Kagan Aricano",
+      "team": "Antalyaspor",
+      "position": "G",
+      "age": 17,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 98,
+      "fields" : { "name": "Ataberk Dadakdeniz",
+      "team": "Antalyaspor",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 99,
+      "fields" : { "name": "Helton Leite",
+      "team": "Antalyaspor",
+      "position": "G",
+      "age": 32,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 100,
+      "fields" : { "name": "Dogukan Ozkan",
+      "team": "Antalyaspor",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 101,
+      "fields" : { "name": "Gerxhaliu Amar",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 21,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 102,
+      "fields" : { "name": "Sherel Floranus",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 103,
+      "fields" : { "name": "Erkin Kocakahya",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 63
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 104,
+      "fields" : { "name": "Bahadir Ozturk",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 105,
+      "fields" : { "name": "Berat Onur Pinar",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 21,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 106,
+      "fields" : { "name": "Veysel Sari",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 35,
+      "jersey_number": 89
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 107,
+      "fields" : { "name": "Omer Toprak",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 34,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 108,
+      "fields" : { "name": "Mert Yilmaz",
+      "team": "Antalyaspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 109,
+      "fields" : { "name": "Ufuk Akyol",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 110,
+      "fields" : { "name": "Bunyamin Balci",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 111,
+      "fields" : { "name": "Mevluthan Ekelik",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 112,
+      "fields" : { "name": "Mustafa Erdilman",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 113,
+      "fields" : { "name": "Erkan Eyibil",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 114,
+      "fields" : { "name": "Fernando",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 115,
+      "fields" : { "name": "Jakub Kaluzinski",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 116,
+      "fields" : { "name": "Deni Milosevic",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 117,
+      "fields" : { "name": "Erdal Rakip",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 118,
+      "fields" : { "name": "Guray Vural",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 35,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 119,
+      "fields" : { "name": "Enginalp Yamac",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 120,
+      "fields" : { "name": "Erdogan Yesilyurt",
+      "team": "Antalyaspor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 121,
+      "fields" : { "name": "Ege Bilsel",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 36
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 122,
+      "fields" : { "name": "Adam Buksa",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 123,
+      "fields" : { "name": "Ali Jasim Elaibi",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 124,
+      "fields" : { "name": "Fredy",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 33,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 125,
+      "fields" : { "name": "Sinan Gumus",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 126,
+      "fields" : { "name": "Fehmi Koc",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 127,
+      "fields" : { "name": "Sam Larsson",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 128,
+      "fields" : { "name": "Emre Uzun",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 129,
+      "fields" : { "name": "Haji Wright",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 130,
+      "fields" : { "name": "Alperen Yilmaz",
+      "team": "Antalyaspor",
+      "position": "F",
+      "age": 17,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 131,
+      "fields" : { "name": "Volkan Babacan",
+      "team": "Istanbul Basaksehir",
+      "position": "G",
+      "age": 34,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 132,
+      "fields" : { "name": "Deniz Dilmen",
+      "team": "Istanbul Basaksehir",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 98
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 133,
+      "fields" : { "name": "Muhammed Sengezer",
+      "team": "Istanbul Basaksehir",
+      "position": "G",
+      "age": 26,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 134,
+      "fields" : { "name": "Yasin Yagiz Dilek",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 65
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 135,
+      "fields" : { "name": "Leo Duarte",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 136,
+      "fields" : { "name": "Edgar Ie",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 51
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 137,
+      "fields" : { "name": "Emre Kaplan",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 138,
+      "fields" : { "name": "Ayberk Kaygisiz",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 139,
+      "fields" : { "name": "Efe Arda Koyuncu",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 41
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 140,
+      "fields" : { "name": "Lucas Lima",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 60
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 141,
+      "fields" : { "name": "Muhammed Emin Sarikaya",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 21,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 142,
+      "fields" : { "name": "Cemali Sertel",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 143,
+      "fields" : { "name": "Ahmed Touba",
+      "team": "Istanbul Basaksehir",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 59
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 144,
+      "fields" : { "name": "Mehdi Abeid",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 145,
+      "fields" : { "name": "Danijel Aleksic",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 32,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 146,
+      "fields" : { "name": "Berkay Aydogmus",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 147,
+      "fields" : { "name": "Sekou Tidiany Bangoura",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 148,
+      "fields" : { "name": "Nacer Chadli",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 149,
+      "fields" : { "name": "Serdar Gürler",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 150,
+      "fields" : { "name": "Onur Inan",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 151,
+      "fields" : { "name": "Eden Karzev",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 72
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 152,
+      "fields" : { "name": "Berkay Ozcan",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 153,
+      "fields" : { "name": "Dimitris Pelkas",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 154,
+      "fields" : { "name": "Bilal Musa Senturk",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 45
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 155,
+      "fields" : { "name": "Mahmut Tekdemir",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 35,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 156,
+      "fields" : { "name": "Deniz Turuc",
+      "team": "Istanbul Basaksehir",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 157,
+      "fields" : { "name": "Batuhan Celik",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 158,
+      "fields" : { "name": "Mounir Chouiar",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 159,
+      "fields" : { "name": "Joao Figueiredo",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 160,
+      "fields" : { "name": "Enes Karakus",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 89
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 161,
+      "fields" : { "name": "Philippe Keny",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 32,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 162,
+      "fields" : { "name": "Stefano Okaka",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 33,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 163,
+      "fields" : { "name": "Krzysztof Piatek",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 28,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 164,
+      "fields" : { "name": "Omer Ali Sahiner",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 42
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 165,
+      "fields" : { "name": "Patryk Szysz",
+      "team": "Istanbul Basaksehir",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 166,
+      "fields" : { "name": "Goktug Baytekin",
+      "team": "Besiktas",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 74
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 167,
+      "fields" : { "name": "Ersin Destanoglu",
+      "team": "Besiktas",
+      "position": "G",
+      "age": 22,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 168,
+      "fields" : { "name": "Mert Gunok",
+      "team": "Besiktas",
+      "position": "G",
+      "age": 34,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 169,
+      "fields" : { "name": "Utku Yuvakuran",
+      "team": "Besiktas",
+      "position": "G",
+      "age": 25,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 170,
+      "fields" : { "name": "Daniel Amartey",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 171,
+      "fields" : { "name": "Omar Colley",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 172,
+      "fields" : { "name": "Kerem Kalafat",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 173,
+      "fields" : { "name": "Aytug Batur Komec",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 174,
+      "fields" : { "name": "Arthur Masuaku",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 175,
+      "fields" : { "name": "Umut Meras",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 176,
+      "fields" : { "name": "Francisco Montero",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 177,
+      "fields" : { "name": "Valentin Rosier",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 178,
+      "fields" : { "name": "Tayyib Sanuc",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 179,
+      "fields" : { "name": "Burak Selver Yildiz",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 79
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 180,
+      "fields" : { "name": "Necip Uysal",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 181,
+      "fields" : { "name": "Emrecan Uzunhan",
+      "team": "Besiktas",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 182,
+      "fields" : { "name": "Onur Bulut",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 183,
+      "fields" : { "name": "Emirhan Delibas",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 184,
+      "fields" : { "name": "Gedson Fernandes",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 83
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 185,
+      "fields" : { "name": "Rachid Ghezzal",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 186,
+      "fields" : { "name": "Amir Hadziahmetovic",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 187,
+      "fields" : { "name": "Ajdin Hasic",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 188,
+      "fields" : { "name": "Atiba Hutchinson",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 40,
+      "jersey_number": 13
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 189,
+      "fields" : { "name": "Ilkay Isler",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 190,
+      "fields" : { "name": "Kerem Kesgin",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 191,
+      "fields" : { "name": "Jean Onana",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 71
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 192,
+      "fields" : { "name": "Demir Tiknaz",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 75
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 193,
+      "fields" : { "name": "Salih Ucan",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 194,
+      "fields" : { "name": "Atakan Uner",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 195,
+      "fields" : { "name": "Berkay Vardar",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 196,
+      "fields" : { "name": "Kartal Yilmaz",
+      "team": "Besiktas",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 197,
+      "fields" : { "name": "Vincent Aboubakar",
+      "team": "Besiktas",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 198,
+      "fields" : { "name": "Oguzhan Akgun",
+      "team": "Besiktas",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 199,
+      "fields" : { "name": "Emrecan Bulut",
+      "team": "Besiktas",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 200,
+      "fields" : { "name": "Semih Kilicsoy",
+      "team": "Besiktas",
+      "position": "F",
+      "age": 17,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 201,
+      "fields" : { "name": "Jackson Muleka",
+      "team": "Besiktas",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 40
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 202,
+      "fields" : { "name": "Cenk Tosun",
+      "team": "Besiktas",
+      "position": "F",
+      "age": 32,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 203,
+      "fields" : { "name": "Gokhan Akkan",
+      "team": "Caykur Rizespor",
+      "position": "G",
+      "age": 28,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 204,
+      "fields" : { "name": "Tarik Cetin",
+      "team": "Caykur Rizespor",
+      "position": "G",
+      "age": 26,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 205,
+      "fields" : { "name": "Emre Ezen",
+      "team": "Caykur Rizespor",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 206,
+      "fields" : { "name": "Zafer Gorgen",
+      "team": "Caykur Rizespor",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 207,
+      "fields" : { "name": "Zeki Furkan Kayali",
+      "team": "Caykur Rizespor",
+      "position": "G",
+      "age": 19,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 208,
+      "fields" : { "name": "Aziz Aksoy",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 55
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 209,
+      "fields" : { "name": "Koray Altinay",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 210,
+      "fields" : { "name": "Oguz Ceylan",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 211,
+      "fields" : { "name": "Ercan Coskun",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 55
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 212,
+      "fields" : { "name": "Alberk Koc",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 213,
+      "fields" : { "name": "Sinan Osmanoglu",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 33,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 214,
+      "fields" : { "name": "Habil Ozbakir",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 95
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 215,
+      "fields" : { "name": "Halil Ibrahim Pehlivan",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 216,
+      "fields" : { "name": "Muammet Taha Sahin",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 217,
+      "fields" : { "name": "Seyfettin Anil Yasar",
+      "team": "Caykur Rizespor",
+      "position": "D",
+      "age": 21,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 218,
+      "fields" : { "name": "Eren Emre Aydin",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 219,
+      "fields" : { "name": "Okechukwu Azubuike",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 220,
+      "fields" : { "name": "Srdjan Grahovac",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 221,
+      "fields" : { "name": "Farouk Miya",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 222,
+      "fields" : { "name": "Mithat Pala",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 54
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 223,
+      "fields" : { "name": "Enriko Papa",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 67
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 224,
+      "fields" : { "name": "Lebogang Phiri",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 225,
+      "fields" : { "name": "Muhammet Enes Sebelek",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 17,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 226,
+      "fields" : { "name": "Emir Han Topcu",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 227,
+      "fields" : { "name": "Emirhan Yilmaz",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 228,
+      "fields" : { "name": "Sefa Yilmaz",
+      "team": "Caykur Rizespor",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 229,
+      "fields" : { "name": "Mahsun Capkan",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 230,
+      "fields" : { "name": "Muhammet Celik",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 231,
+      "fields" : { "name": "Eren Karadag",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 232,
+      "fields" : { "name": "Benhur Keser",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 233,
+      "fields" : { "name": "John Mary",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 45
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 234,
+      "fields" : { "name": "Ibrahim Olawoyin Olasunkanmi",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 235,
+      "fields" : { "name": "Ugur Can Semizoglu",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 236,
+      "fields" : { "name": "Efe Tecimer",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 237,
+      "fields" : { "name": "Anthony Van den Hurk",
+      "team": "Caykur Rizespor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 238,
+      "fields" : { "name": "Emre Bilgin",
+      "team": "Fatih Karagumruk SK",
+      "position": "G",
+      "age": 19,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 239,
+      "fields" : { "name": "Mehmet Demirci",
+      "team": "Fatih Karagumruk SK",
+      "position": "G",
+      "age": 21,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 240,
+      "fields" : { "name": "Matias Dituro",
+      "team": "Fatih Karagumruk SK",
+      "position": "G",
+      "age": 36,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 241,
+      "fields" : { "name": "Muzaffer Cem Kablan",
+      "team": "Fatih Karagumruk SK",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 242,
+      "fields" : { "name": "Rayyan Baniya",
+      "team": "Fatih Karagumruk SK",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 243,
+      "fields" : { "name": "Ibrahim Dresevic",
+      "team": "Fatih Karagumruk SK",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 244,
+      "fields" : { "name": "Salih Dursun",
+      "team": "Fatih Karagumruk SK",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 54
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 245,
+      "fields" : { "name": "Efecan Mizrakci",
+      "team": "Fatih Karagumruk SK",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 246,
+      "fields" : { "name": "Emir Tintis",
+      "team": "Fatih Karagumruk SK",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 247,
+      "fields" : { "name": "Frederic Veseli",
+      "team": "Fatih Karagumruk SK",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 248,
+      "fields" : { "name": "Sofiane Feghouli",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 89
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 249,
+      "fields" : { "name": "Kerim Frei",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 250,
+      "fields" : { "name": "Omer Faruk Gumus",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 251,
+      "fields" : { "name": "Fatih Kurnaz",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 252,
+      "fields" : { "name": "Anwan Nicholas Lawrence",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 253,
+      "fields" : { "name": "Adem Ljajic",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 254,
+      "fields" : { "name": "Munir Levent Mercan",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 255,
+      "fields" : { "name": "Samed Onur",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 256,
+      "fields" : { "name": "Otabek Shukurov",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 257,
+      "fields" : { "name": "Magomed Ozdoev",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 258,
+      "fields" : { "name": "Marcus Rohden",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 32,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 259,
+      "fields" : { "name": "Efe Tatli",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 260,
+      "fields" : { "name": "Adnan Ugur",
+      "team": "Fatih Karagumruk SK",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 261,
+      "fields" : { "name": "Can Keles",
+      "team": "Fatih Karagumruk SK",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 262,
+      "fields" : { "name": "Furkan Onur Akyuz",
+      "team": "Fenerbahce",
+      "position": "G",
+      "age": 17,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 263,
+      "fields" : { "name": "Altay Bayindir",
+      "team": "Fenerbahce",
+      "position": "G",
+      "age": 25,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 264,
+      "fields" : { "name": "Irfan Can Egribayat",
+      "team": "Fenerbahce",
+      "position": "G",
+      "age": 25,
+      "jersey_number": 70
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 265,
+      "fields" : { "name": "Samet Akaydin",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 266,
+      "fields" : { "name": "Ahmet Necat Aydin",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 267,
+      "fields" : { "name": "Serdar Aziz",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 268,
+      "fields" : { "name": "Rodrigo Becao",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 50
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 269,
+      "fields" : { "name": "Kurukalip Cagtay",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 21,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 270,
+      "fields" : { "name": "Yigit Efe Demir",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 94
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 271,
+      "fields" : { "name": "Alexander Djiku",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 272,
+      "fields" : { "name": "Gustavo Henrique",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 273,
+      "fields" : { "name": "Ferdi Kadioglu",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 274,
+      "fields" : { "name": "Burak Kapacak",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 275,
+      "fields" : { "name": "Luan Peres",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 276,
+      "fields" : { "name": "Jayden Oosterwolde",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 277,
+      "fields" : { "name": "Nazim Sangare",
+      "team": "Fenerbahce",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 278,
+      "fields" : { "name": "Eyup Akcan",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 57
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 279,
+      "fields" : { "name": "Willian Arao",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 280,
+      "fields" : { "name": "Miguel Crespo",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 281,
+      "fields" : { "name": "Emre Demir",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 282,
+      "fields" : { "name": "Bartug Elmaz",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 283,
+      "fields" : { "name": "Jo Jin0ho",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 284,
+      "fields" : { "name": "Irfan Kahveci",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 285,
+      "fields" : { "name": "Yusuf Kocaturk",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 69
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 286,
+      "fields" : { "name": "Lincoln",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 287,
+      "fields" : { "name": "Emre Mor",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 288,
+      "fields" : { "name": "Bright Osayi0Samuel",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 289,
+      "fields" : { "name": "Joao Pedro",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 290,
+      "fields" : { "name": "Sebastian Szymanski",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 291,
+      "fields" : { "name": "Mert Hakan Yandas",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 292,
+      "fields" : { "name": "Ismail Yuksek",
+      "team": "Fenerbahce",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 293,
+      "fields" : { "name": "Michy Batshuayi",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 294,
+      "fields" : { "name": "Melih Bostan",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 91
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 295,
+      "fields" : { "name": "Serdar Dursun",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 296,
+      "fields" : { "name": "Edin Dzeko",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 37,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 297,
+      "fields" : { "name": "Ryan Kent",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 298,
+      "fields" : { "name": "Joshua King",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 299,
+      "fields" : { "name": "Umut Nayir",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 300,
+      "fields" : { "name": "Diego Rossi",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 301,
+      "fields" : { "name": "Dusan Tadic",
+      "team": "Fenerbahce",
+      "position": "F",
+      "age": 34,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 302,
+      "fields" : { "name": "Berk Balaban",
+      "team": "Galatasaray",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 98
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 303,
+      "fields" : { "name": "Fernando Muslera",
+      "team": "Galatasaray",
+      "position": "G",
+      "age": 37,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 304,
+      "fields" : { "name": "Ahmet Sen",
+      "team": "Galatasaray",
+      "position": "G",
+      "age": 24,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 305,
+      "fields" : { "name": "Jankat Yilmaz",
+      "team": "Galatasaray",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 50
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 306,
+      "fields" : { "name": "Angelino",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 307,
+      "fields" : { "name": "Kaan Arslan",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 308,
+      "fields" : { "name": "Kaan Ayhan",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 309,
+      "fields" : { "name": "Metehan Baltaci",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 310,
+      "fields" : { "name": "Abdulkerim Bardakci",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 42
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 311,
+      "fields" : { "name": "Emin Bayram",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 40
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 312,
+      "fields" : { "name": "Sacha Boey",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 93
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 313,
+      "fields" : { "name": "Ali Turap Bulbul",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 72
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 314,
+      "fields" : { "name": "Leo Dubois",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 315,
+      "fields" : { "name": "Christian Luyindama",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 316,
+      "fields" : { "name": "Victor Nelsson",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 317,
+      "fields" : { "name": "Alpaslan Ozturk",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 318,
+      "fields" : { "name": "Patrick Van Aanholt",
+      "team": "Galatasaray",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 319,
+      "fields" : { "name": "Efe Akman",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 17,
+      "jersey_number": 83
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 320,
+      "fields" : { "name": "Hamza Akman",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 81
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 321,
+      "fields" : { "name": "Baran Aksaka",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 63
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 322,
+      "fields" : { "name": "Atalay Babacan",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 323,
+      "fields" : { "name": "Alexandru Cicaldau",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 324,
+      "fields" : { "name": "Abdussamed Karnucu",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 47
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 325,
+      "fields" : { "name": "Emre Kilinc",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 54
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 326,
+      "fields" : { "name": "Berkan Kutlu",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 327,
+      "fields" : { "name": "Fredrik Midtsjo",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 328,
+      "fields" : { "name": "Olimpiu Morutan",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 329,
+      "fields" : { "name": "Sergio Oliveira",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 330,
+      "fields" : { "name": "Lucas Torreira",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 331,
+      "fields" : { "name": "Baris Yilmaz",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 332,
+      "fields" : { "name": "Nicolo Zaniolo",
+      "team": "Galatasaray",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 333,
+      "fields" : { "name": "Yunus Akgun",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 334,
+      "fields" : { "name": "Kerem Akturkoglu",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 335,
+      "fields" : { "name": "Mauro Icardi",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 336,
+      "fields" : { "name": "Cedric Bakambu",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 32,
+      "jersey_number": 94
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 337,
+      "fields" : { "name": "Ogulcan Caglayan",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 338,
+      "fields" : { "name": "Yusuf Demir",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 339,
+      "fields" : { "name": "Baran Demiroglu",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 56
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 340,
+      "fields" : { "name": "Halil Dervisoglu",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 341,
+      "fields" : { "name": "Caner Dogan",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 59
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 342,
+      "fields" : { "name": "Kazimcan Karatas",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 343,
+      "fields" : { "name": "Dries Mertens",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 36,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 344,
+      "fields" : { "name": "Wilfried Zaha",
+      "team": "Galatasaray",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 345,
+      "fields" : { "name": "Mustafa Burak Bozan",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "G",
+      "age": 22,
+      "jersey_number": 71
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 346,
+      "fields" : { "name": "Erten Ersu",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "G",
+      "age": 29,
+      "jersey_number": 54
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 347,
+      "fields" : { "name": "Gunay Guvenc",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "G",
+      "age": 32,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 348,
+      "fields" : { "name": "Omurcan Artan",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 349,
+      "fields" : { "name": "Onur Basyigit",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 350,
+      "fields" : { "name": "Papy Djilobodji",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 34,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 351,
+      "fields" : { "name": "Ertugrul Ersoy",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 352,
+      "fields" : { "name": "Bahadir Golgeli",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 91
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 353,
+      "fields" : { "name": "Naoufel Khacef",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 354,
+      "fields" : { "name": "Arda Kizildag",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 355,
+      "fields" : { "name": "Berkan Kupelikilinc",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 356,
+      "fields" : { "name": "Ulas Zengin",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 357,
+      "fields" : { "name": "Onurhan Babuscu",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 358,
+      "fields" : { "name": "Mustafa Eskihellac",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 359,
+      "fields" : { "name": "Max Gradel",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 35,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 360,
+      "fields" : { "name": "Berke Gurbuz",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 361,
+      "fields" : { "name": "Marko Jevtovic",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 362,
+      "fields" : { "name": "Alexandru Maxim",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 44
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 363,
+      "fields" : { "name": "Furkan Soyalp",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 364,
+      "fields" : { "name": "Abdulkerim Cakar",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 365,
+      "fields" : { "name": "Mirza Cihan",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 366,
+      "fields" : { "name": "Ilker Karakas",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 367,
+      "fields" : { "name": "Lazar Markovic",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 50
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 368,
+      "fields" : { "name": "Yusuf Turk",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 369,
+      "fields" : { "name": "Valmir Veliu",
+      "team": "Gazisehir Gaziantep FK",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 370,
+      "fields" : { "name": "Visar Bekaj",
+      "team": "Hatayspor",
+      "position": "G",
+      "age": 26,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 371,
+      "fields" : { "name": "Yavuz Bugra Boyar",
+      "team": "Hatayspor",
+      "position": "G",
+      "age": 24,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 372,
+      "fields" : { "name": "Erce Kardesler",
+      "team": "Hatayspor",
+      "position": "G",
+      "age": 29,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 373,
+      "fields" : { "name": "Abdullah Yigiter",
+      "team": "Hatayspor",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 31
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 374,
+      "fields" : { "name": "Sam Adekugbe",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 375,
+      "fields" : { "name": "Engin Can Aksoy",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 57
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 376,
+      "fields" : { "name": "Kerim Alici",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 377,
+      "fields" : { "name": "Sadik Bas",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 378,
+      "fields" : { "name": "Burak Bekaroglu",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 86
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 379,
+      "fields" : { "name": "Kamil Corekci",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 380,
+      "fields" : { "name": "Cengiz Demir",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 381,
+      "fields" : { "name": "Simon Falette",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 382,
+      "fields" : { "name": "Eren Fansa",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 87
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 383,
+      "fields" : { "name": "Nikola Maksimovic",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 384,
+      "fields" : { "name": "Oguzhan Matur",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 385,
+      "fields" : { "name": "Burak Oksuz",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 386,
+      "fields" : { "name": "Ognjen Vranjes",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 33,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 387,
+      "fields" : { "name": "Recep Burak Yilmaz",
+      "team": "Hatayspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 388,
+      "fields" : { "name": "Rayane Aabid",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 389,
+      "fields" : { "name": "Giorgi Aburjania",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 390,
+      "fields" : { "name": "Mehdi Boudjemaa",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 391,
+      "fields" : { "name": "Musa Cagiran",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 392,
+      "fields" : { "name": "Fisayo Dele0Bashiru",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 393,
+      "fields" : { "name": "Armin Hodzic",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 394,
+      "fields" : { "name": "Saba Lobzhanidze",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 395,
+      "fields" : { "name": "Ruben Ribeiro",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 35,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 396,
+      "fields" : { "name": "Gorkem Saglam",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 397,
+      "fields" : { "name": "Selimcan Temel",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 398,
+      "fields" : { "name": "Ali Yildiz",
+      "team": "Hatayspor",
+      "position": "M",
+      "age": 16,
+      "jersey_number": 61
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 399,
+      "fields" : { "name": "Onur Ari",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 400,
+      "fields" : { "name": "Sarper Caglar",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 401,
+      "fields" : { "name": "Ibrahim Demir",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 402,
+      "fields" : { "name": "Unal Durmushan",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 403,
+      "fields" : { "name": "Joelson Fernandes",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 404,
+      "fields" : { "name": "Carlos Strandberg",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 405,
+      "fields" : { "name": "Koray Yagci",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 75
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 406,
+      "fields" : { "name": "Bertug Ozgur Yildirim",
+      "team": "Hatayspor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 407,
+      "fields" : { "name": "David Jensen",
+      "team": "Istanbulspor",
+      "position": "G",
+      "age": 31,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 408,
+      "fields" : { "name": "Mucahit Serbest",
+      "team": "Istanbulspor",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 409,
+      "fields" : { "name": "Alp Arda",
+      "team": "Istanbulspor",
+      "position": "G",
+      "age": 28,
+      "jersey_number": 59
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 410,
+      "fields" : { "name": "Apostolos Diamantis",
+      "team": "Istanbulspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 411,
+      "fields" : { "name": "Demeaco Duhaney",
+      "team": "Istanbulspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 412,
+      "fields" : { "name": "Okan Erdogan",
+      "team": "Istanbulspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 23
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 413,
+      "fields" : { "name": "Inainfe Michael Ologo",
+      "team": "Istanbulspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 50
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 414,
+      "fields" : { "name": "David Sambissa",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 415,
+      "fields" : { "name": "Ali Yasar",
+      "team": "Istanbulspor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 66
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 416,
+      "fields" : { "name": "Mehmet Yesil",
+      "team": "Istanbulspor",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 417,
+      "fields" : { "name": "Kagan Miray Bagis",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 418,
+      "fields" : { "name": "Berkay Gormez",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 419,
+      "fields" : { "name": "Florian Loshaj",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 420,
+      "fields" : { "name": "Yusuf Ali Ozer",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 44
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 421,
+      "fields" : { "name": "Eslem Ozturk",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 422,
+      "fields" : { "name": "Eduard Rroca",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 423,
+      "fields" : { "name": "Enver Azmi Sarialioglu",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 424,
+      "fields" : { "name": "Muammer Sarikaya",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 425,
+      "fields" : { "name": "Vefa Temel",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 426,
+      "fields" : { "name": "Cafer Tosun",
+      "team": "Istanbulspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 61
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 427,
+      "fields" : { "name": "Valon Ethemi",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 428,
+      "fields" : { "name": "Emir Kaan Gultekin",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 429,
+      "fields" : { "name": "Sindri Guri",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 61
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 430,
+      "fields" : { "name": "Kubilay Koylu",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 431,
+      "fields" : { "name": "Berk Ali Nizam",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 23,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 432,
+      "fields" : { "name": "Jackson Kenio Santos Laurentino",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 433,
+      "fields" : { "name": "Jetmir Topalli",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 98
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 434,
+      "fields" : { "name": "Ibrahim Yilmaz",
+      "team": "Istanbulspor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 435,
+      "fields" : { "name": "Melih Akyuz",
+      "team": "Kasimpasa SK",
+      "position": "G",
+      "age": 17,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 436,
+      "fields" : { "name": "Yunus Emre Senturk",
+      "team": "Kasimpasa SK",
+      "position": "G",
+      "age": 20,
+      "jersey_number": 53
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 437,
+      "fields" : { "name": "Taylan Utku Aydin",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 17,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 438,
+      "fields" : { "name": "Sadik Ciftpinar",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 439,
+      "fields" : { "name": "Selim Dilli",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 440,
+      "fields" : { "name": "Nihat Eris",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 74
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 441,
+      "fields" : { "name": "Gökhan Gul",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 442,
+      "fields" : { "name": "Taha Veysel Kemendi",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 443,
+      "fields" : { "name": "Yasin Ozcan",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 17,
+      "jersey_number": 58
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 444,
+      "fields" : { "name": "Karin Saab",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 445,
+      "fields" : { "name": "Mickael Tirpan",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 446,
+      "fields" : { "name": "Claudio Winck",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 447,
+      "fields" : { "name": "Furkan Yasa",
+      "team": "Kasimpasa SK",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 44
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 448,
+      "fields" : { "name": "Mamadou Fall",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 449,
+      "fields" : { "name": "Iron Gomis",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 450,
+      "fields" : { "name": "Haris Hajradinovic",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 451,
+      "fields" : { "name": "Berat Kalkan",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 41
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 452,
+      "fields" : { "name": "Aytac Kara",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 453,
+      "fields" : { "name": "Hasan Emre Yesilyurt",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 454,
+      "fields" : { "name": "Oguzhan Efe Yilmaz",
+      "team": "Kasimpasa SK",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 455,
+      "fields" : { "name": "Stephane Bahoken",
+      "team": "Kasimpasa SK",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 456,
+      "fields" : { "name": "Erdem Cetinkaya",
+      "team": "Kasimpasa SK",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 457,
+      "fields" : { "name": "Ali Suhan Demirel",
+      "team": "Kasimpasa SK",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 458,
+      "fields" : { "name": "Ahmet Hakan Demirli",
+      "team": "Kasimpasa SK",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 70
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 459,
+      "fields" : { "name": "Carlos Subero",
+      "team": "Kasimpasa SK",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 460,
+      "fields" : { "name": "Bilal Bayazit",
+      "team": "Kayserispor",
+      "position": "G",
+      "age": 24,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 461,
+      "fields" : { "name": "Mehmet Samil Ozturk",
+      "team": "Kayserispor",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 39
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 462,
+      "fields" : { "name": "Abdulkadir Tasdan",
+      "team": "Kayserispor",
+      "position": "G",
+      "age": 20,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 463,
+      "fields" : { "name": "Mert Dinc",
+      "team": "Kayserispor",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 464,
+      "fields" : { "name": "Arif Kocaman",
+      "team": "Kayserispor",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 54
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 465,
+      "fields" : { "name": "Dimitrios Kolovetsios",
+      "team": "Kayserispor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 466,
+      "fields" : { "name": "Ackah",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 89
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 467,
+      "fields" : { "name": "Muhammed Eren Arikan",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 40
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 468,
+      "fields" : { "name": "Miguel Cardoso",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 469,
+      "fields" : { "name": "Ramazan Civelek",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 470,
+      "fields" : { "name": "Berat Eskin",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 471,
+      "fields" : { "name": "Baran Ali Gezek",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 17,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 472,
+      "fields" : { "name": "Ali Karimi",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 473,
+      "fields" : { "name": "Olivier Kemen",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 474,
+      "fields" : { "name": "Ahmet Kagan Malatyali",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 475,
+      "fields" : { "name": "Eray Ozbek",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 476,
+      "fields" : { "name": "Gokhan Sazdagi",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 477,
+      "fields" : { "name": "Anthony Uzodimma",
+      "team": "Kayserispor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 478,
+      "fields" : { "name": "Hayrullah Erkip",
+      "team": "Kayserispor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 479,
+      "fields" : { "name": "Balci Ethem",
+      "team": "Kayserispor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 32
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 480,
+      "fields" : { "name": "Nurettin Korkmaz",
+      "team": "Kayserispor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 481,
+      "fields" : { "name": "Carlos Mane",
+      "team": "Kayserispor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 482,
+      "fields" : { "name": "Talha Sariarslan",
+      "team": "Kayserispor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 483,
+      "fields" : { "name": "Mame Thiam",
+      "team": "Kayserispor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 484,
+      "fields" : { "name": "Mehmet Erdogan",
+      "team": "Konyaspor",
+      "position": "G",
+      "age": 19,
+      "jersey_number": 64
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 485,
+      "fields" : { "name": "Deniz Ertas",
+      "team": "Konyaspor",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 486,
+      "fields" : { "name": "Ozan Oruc",
+      "team": "Konyaspor",
+      "position": "G",
+      "age": 23,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 487,
+      "fields" : { "name": "Ibrahim Sehic",
+      "team": "Konyaspor",
+      "position": "G",
+      "age": 34,
+      "jersey_number": 13
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 488,
+      "fields" : { "name": "Francisco Calvo",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 489,
+      "fields" : { "name": "Kahraman Demirtas",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 490,
+      "fields" : { "name": "Guilherme",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 33,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 491,
+      "fields" : { "name": "Cebrail Karayel",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 492,
+      "fields" : { "name": "Metehan Mert",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 493,
+      "fields" : { "name": "Ahmet Oguz",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 494,
+      "fields" : { "name": "Yasir Subasi",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 495,
+      "fields" : { "name": "Nafican Yardimci",
+      "team": "Konyaspor",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 496,
+      "fields" : { "name": "Andreas Bouchalakis",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 32
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 497,
+      "fields" : { "name": "Soner Dikmen",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 498,
+      "fields" : { "name": "Ali Karakaya",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 32
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 499,
+      "fields" : { "name": "Yunus Malli",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 500,
+      "fields" : { "name": "Konrad Michalak",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 501,
+      "fields" : { "name": "Bruno Paz",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 502,
+      "fields" : { "name": "Niko Rak",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 503,
+      "fields" : { "name": "Ogulcan Ulgun",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 504,
+      "fields" : { "name": "Ugurcan Yazgili",
+      "team": "Konyaspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 505,
+      "fields" : { "name": "Mehmet Ali Buyuksayar",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 42
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 506,
+      "fields" : { "name": "Sokol Cikalleshi",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 33,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 507,
+      "fields" : { "name": "Muhammet Demir",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 31,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 508,
+      "fields" : { "name": "Uche Ikpeazu",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 28,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 509,
+      "fields" : { "name": "Ata Berk Karababa",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 510,
+      "fields" : { "name": "Ahmet Karademir",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 511,
+      "fields" : { "name": "Marlos Moreno",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 70
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 512,
+      "fields" : { "name": "Robert Muric",
+      "team": "Konyaspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 513,
+      "fields" : { "name": "Murat Aksit",
+      "team": "Pendikspor",
+      "position": "G",
+      "age": 21,
+      "jersey_number": 13
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 514,
+      "fields" : { "name": "Ali Aydik",
+      "team": "Pendikspor",
+      "position": "G",
+      "age": 19,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 515,
+      "fields" : { "name": "Erdem Canpolat",
+      "team": "Pendikspor",
+      "position": "G",
+      "age": 22,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 516,
+      "fields" : { "name": "Burak Ogur",
+      "team": "Pendikspor",
+      "position": "G",
+      "age": 33,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 517,
+      "fields" : { "name": "Murat Akca",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 33,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 518,
+      "fields" : { "name": "Ruhan Arda Aksoy",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 519,
+      "fields" : { "name": "Hasan Hatipoglu",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 34,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 520,
+      "fields" : { "name": "Erdem Ozgenc",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 38,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 521,
+      "fields" : { "name": "Ferhat Oztorun",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 36,
+      "jersey_number": 87
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 522,
+      "fields" : { "name": "Joher Khadim Rassoul",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 523,
+      "fields" : { "name": "Nuno Sequeira",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 524,
+      "fields" : { "name": "Berkay Sulungoz",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 525,
+      "fields" : { "name": "Emre Tasdemir",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 526,
+      "fields" : { "name": "Georgios Tzavellas",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 35,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 527,
+      "fields" : { "name": "Ugur Ucar",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 36,
+      "jersey_number": 33
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 528,
+      "fields" : { "name": "Welinton",
+      "team": "Pendikspor",
+      "position": "D",
+      "age": 34,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 529,
+      "fields" : { "name": "Aias Aosman",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 530,
+      "fields" : { "name": "Samet Asatekin",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 531,
+      "fields" : { "name": "Firat Gullu",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 532,
+      "fields" : { "name": "Melih Guney",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 533,
+      "fields" : { "name": "Gokcan Kaya",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 58
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 534,
+      "fields" : { "name": "Kerem Kaya",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 535,
+      "fields" : { "name": "Enes Keskin",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 536,
+      "fields" : { "name": "Hasan Kilic",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 537,
+      "fields" : { "name": "Mesut Ozdemir",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 41
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 538,
+      "fields" : { "name": "Efe Sayhan",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 539,
+      "fields" : { "name": "Josip Vukovic",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 540,
+      "fields" : { "name": "Uygar Mert Zeybek",
+      "team": "Pendikspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 541,
+      "fields" : { "name": "Halil Akbunar",
+      "team": "Pendikspor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 542,
+      "fields" : { "name": "Abdoulay Diaby",
+      "team": "Pendikspor",
+      "position": "F",
+      "age": 32,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 543,
+      "fields" : { "name": "Umut Yasar Kececi",
+      "team": "Pendikspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 544,
+      "fields" : { "name": "Yunus Emre Kefeli",
+      "team": "Pendikspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 545,
+      "fields" : { "name": "Erencan Yardimci",
+      "team": "Pendikspor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 546,
+      "fields" : { "name": "Okan Kocuk",
+      "team": "Samsunspor",
+      "position": "G",
+      "age": 28,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 547,
+      "fields" : { "name": "Jakub Szumski",
+      "team": "Samsunspor",
+      "position": "G",
+      "age": 31,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 548,
+      "fields" : { "name": "Taha Tosun",
+      "team": "Samsunspor",
+      "position": "G",
+      "age": 18,
+      "jersey_number": 64
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 549,
+      "fields" : { "name": "Yusuf Abdioglu",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 33,
+      "jersey_number": 55
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 550,
+      "fields" : { "name": "Enes Albak",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 66
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 551,
+      "fields" : { "name": "Melih Altikulac",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 21,
+      "jersey_number": 66
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 552,
+      "fields" : { "name": "Marc Bola",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 553,
+      "fields" : { "name": "Bedirhan Cetin",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 17,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 554,
+      "fields" : { "name": "Yunus Emre Cift",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 555,
+      "fields" : { "name": "Soner Gonul",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 556,
+      "fields" : { "name": "Nanu",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 29,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 557,
+      "fields" : { "name": "Alim Ozturk",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 5
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 558,
+      "fields" : { "name": "Lubomir Satka",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 559,
+      "fields" : { "name": "Berk Taskin",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 560,
+      "fields" : { "name": "Rick Van Drongelen",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 24,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 561,
+      "fields" : { "name": "Guy Serge Yameogo",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 22,
+      "jersey_number": 42
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 562,
+      "fields" : { "name": "Zeki Yavru",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 563,
+      "fields" : { "name": "Elano Yegen",
+      "team": "Samsunspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 564,
+      "fields" : { "name": "Youssef Ait Bennasser",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 565,
+      "fields" : { "name": "Baris Alici",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 26,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 566,
+      "fields" : { "name": "Semih Altikulac",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 57
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 567,
+      "fields" : { "name": "Taylan Antalyali",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 568,
+      "fields" : { "name": "Soner Aydogdu",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 32,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 569,
+      "fields" : { "name": "Elhadj Bah",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 570,
+      "fields" : { "name": "Osman Celik",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 571,
+      "fields" : { "name": "Moryke Fofana",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 572,
+      "fields" : { "name": "Kadeem Harris",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 93
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 573,
+      "fields" : { "name": "Cihan Kahraman",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 8
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 574,
+      "fields" : { "name": "Atakan Mert Ozdemir",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 80
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 575,
+      "fields" : { "name": "Yunus Emre Yildiz",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 18,
+      "jersey_number": 57
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 576,
+      "fields" : { "name": "Celil Yuksel",
+      "team": "Samsunspor",
+      "position": "M",
+      "age": 25,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 577,
+      "fields" : { "name": "Moussa Guel",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 24,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 578,
+      "fields" : { "name": "Yusuf Emre Gultekin",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 40
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 579,
+      "fields" : { "name": "Sener Kaya",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 580,
+      "fields" : { "name": "Ali Kilic",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 581,
+      "fields" : { "name": "Gaetan Laura",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 582,
+      "fields" : { "name": "Marius Mouandilmadji",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 25,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 583,
+      "fields" : { "name": "Muhammet Ali Ozbaskici",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 17,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 584,
+      "fields" : { "name": "Alper Efe Pazar",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 585,
+      "fields" : { "name": "Ahmet Sagat",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 586,
+      "fields" : { "name": "Douglas Tanque",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 587,
+      "fields" : { "name": "Polat Yaldir",
+      "team": "Samsunspor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 588,
+      "fields" : { "name": "Baver Kuckar",
+      "team": "Sivasspor",
+      "position": "G",
+      "age": 20,
+      "jersey_number": 16
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 589,
+      "fields" : { "name": "Emre Satilmis",
+      "team": "Sivasspor",
+      "position": "G",
+      "age": 26,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 590,
+      "fields" : { "name": "Ali Sasal Vural",
+      "team": "Sivasspor",
+      "position": "G",
+      "age": 33,
+      "jersey_number": 35
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 591,
+      "fields" : { "name": "Muammer Yildirim",
+      "team": "Sivasspor",
+      "position": "G",
+      "age": 32,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 592,
+      "fields" : { "name": "Samba Camara",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 14
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 593,
+      "fields" : { "name": "Ugur Ciftci",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 31,
+      "jersey_number": 3
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 594,
+      "fields" : { "name": "Tak Emirhan",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 22
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 595,
+      "fields" : { "name": "Ziya Erdal",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 35,
+      "jersey_number": 58
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 596,
+      "fields" : { "name": "Alaaddin Okumus",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 27,
+      "jersey_number": 13
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 597,
+      "fields" : { "name": "Murat Paluli",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 28,
+      "jersey_number": 2
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 598,
+      "fields" : { "name": "Ozkan Yigiter",
+      "team": "Sivasspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 62
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 599,
+      "fields" : { "name": "Mehmet Albayrak",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 600,
+      "fields" : { "name": "Hakan Arslan",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 35,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 601,
+      "fields" : { "name": "Emrah Bassan",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 31,
+      "jersey_number": 17
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 602,
+      "fields" : { "name": "Charilaos Charisis",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 15
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 603,
+      "fields" : { "name": "Armin Djerlek",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 604,
+      "fields" : { "name": "Kader Keita",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 28
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 605,
+      "fields" : { "name": "Arda Keser",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 97
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 606,
+      "fields" : { "name": "Kaan Onaran",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 19,
+      "jersey_number": 94
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 607,
+      "fields" : { "name": "Abdulkadir Parmak",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 608,
+      "fields" : { "name": "Eren Sahin",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 22,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 609,
+      "fields" : { "name": "Samuel Saiz",
+      "team": "Sivasspor",
+      "position": "M",
+      "age": 32,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 610,
+      "fields" : { "name": "Karol Angielski",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 27,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 611,
+      "fields" : { "name": "Muhammed Mert Dursun",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 79
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 612,
+      "fields" : { "name": "Muhammed Ergin",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 613,
+      "fields" : { "name": "Emre Gokay",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 17,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 614,
+      "fields" : { "name": "Eren Kaya",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 19,
+      "jersey_number": 76
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 615,
+      "fields" : { "name": "Ahmed Musa",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 26
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 616,
+      "fields" : { "name": "Clinton N'Jie",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 29,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 617,
+      "fields" : { "name": "Gerson Rodrigues",
+      "team": "Sivasspor",
+      "position": "F",
+      "age": 28,
+      "jersey_number": 0
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 618,
+      "fields" : { "name": "Hakan Aydin",
+      "team": "Trabzonspor",
+      "position": "G",
+      "age": 20,
+      "jersey_number": 96
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 619,
+      "fields" : { "name": "Ugurcan Cakir",
+      "team": "Trabzonspor",
+      "position": "G",
+      "age": 27,
+      "jersey_number": 1
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 620,
+      "fields" : { "name": "Onuralp Cevikkan",
+      "team": "Trabzonspor",
+      "position": "G",
+      "age": 17,
+      "jersey_number": 25
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 621,
+      "fields" : { "name": "Kagan Moradaoglu",
+      "team": "Trabzonspor",
+      "position": "G",
+      "age": 20,
+      "jersey_number": 98
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 622,
+      "fields" : { "name": "Muhammet Taha Tepe",
+      "team": "Trabzonspor",
+      "position": "G",
+      "age": 22,
+      "jersey_number": 54
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 623,
+      "fields" : { "name": "Bosluk Arif",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 72
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 624,
+      "fields" : { "name": "Filip Benkovic",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 26,
+      "jersey_number": 43
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 625,
+      "fields" : { "name": "Stefano Denswil",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 30,
+      "jersey_number": 24
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 626,
+      "fields" : { "name": "Evren Eren Elmali",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 18
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 627,
+      "fields" : { "name": "Faruk Can Gene",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 23,
+      "jersey_number": 75
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 628,
+      "fields" : { "name": "Salih Malkocoglu",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 18,
+      "jersey_number": 56
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 629,
+      "fields" : { "name": "Jens Stryger Larsen",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 32,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 630,
+      "fields" : { "name": "Huseyin Turkmen",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 25,
+      "jersey_number": 4
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 631,
+      "fields" : { "name": "Ali Sahin Yilmaz",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 19,
+      "jersey_number": 84
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 632,
+      "fields" : { "name": "Oguzhan Yilmaz",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 17,
+      "jersey_number": 60
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 633,
+      "fields" : { "name": "Emirhan Zaman",
+      "team": "Trabzonspor",
+      "position": "D",
+      "age": 20,
+      "jersey_number": 88
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 634,
+      "fields" : { "name": "Murat Cem Akpinar",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 41
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 635,
+      "fields" : { "name": "Serkan Asan",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 636,
+      "fields" : { "name": "Tasos Bakasetas",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 30,
+      "jersey_number": 11
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 637,
+      "fields" : { "name": "Enis Bardhi",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 29
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 638,
+      "fields" : { "name": "Kerem Baykus",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 77
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 639,
+      "fields" : { "name": "Joaquin Fernandez",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 27,
+      "jersey_number": 20
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 640,
+      "fields" : { "name": "Goktan Gurpuz",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 20,
+      "jersey_number": 41
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 641,
+      "fields" : { "name": "Dogucan Haspolat",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 34
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 642,
+      "fields" : { "name": "Safa Kinali",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 19
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 643,
+      "fields" : { "name": "Dimitris Kourbelis",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 644,
+      "fields" : { "name": "Abdulkadir Omur",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 24,
+      "jersey_number": 10
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 645,
+      "fields" : { "name": "Manolis Siopis",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 29,
+      "jersey_number": 6
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 646,
+      "fields" : { "name": "Tonio Teklic",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 23,
+      "jersey_number": 42
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 647,
+      "fields" : { "name": "Trezeguet",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 28,
+      "jersey_number": 27
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 648,
+      "fields" : { "name": "Edin Visca",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 33,
+      "jersey_number": 7
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 649,
+      "fields" : { "name": "Hakan Yesil",
+      "team": "Trabzonspor",
+      "position": "M",
+      "age": 21,
+      "jersey_number": 12
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 650,
+      "fields" : { "name": "Abdurrahman Bayram",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 57
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 651,
+      "fields" : { "name": "Umut Bozok",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 9
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 652,
+      "fields" : { "name": "Enis Destan",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 94
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 653,
+      "fields" : { "name": "Djaniny",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 32,
+      "jersey_number": 21
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 654,
+      "fields" : { "name": "Engin Poyraz Efe Yildirim",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 18,
+      "jersey_number": 63
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 655,
+      "fields" : { "name": "Emrehan Gedikli",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 20,
+      "jersey_number": 37
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 656,
+      "fields" : { "name": "Maxi Gomez",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 26,
+      "jersey_number": 30
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 657,
+      "fields" : { "name": "Batuhan Kor",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 22,
+      "jersey_number": 90
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 658,
+      "fields" : { "name": "Mislav Orsic",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 30,
+      "jersey_number": 99
+    }},
+    {
+      "model": "ligdle.player",
+      "pk": 659,
+      "fields" : { "name": "Kerem Sen",
+      "team": "Trabzonspor",
+      "position": "F",
+      "age": 21,
+      "jersey_number": 67
+    }}
+  ]
+      
+  
